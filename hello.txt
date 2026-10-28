@@ -1,4 +1,5 @@
 hello git
 im learning git command
 this is my first feature
-i know how to use github
+i know how to use GitHub
+this is my feature2 branch
