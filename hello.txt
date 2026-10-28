@@ -1,3 +1,4 @@
 hello git
 im learning git command
 this is my first feature
+i know how to use github
